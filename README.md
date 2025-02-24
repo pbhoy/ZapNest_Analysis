@@ -1,5 +1,3 @@
-# Elist Analysis
-
 # Company Background:
 Elist is a rapidly growing consumer electronics company founded in 2018. The company sells popular electronics products through its website and mobile app while leveraging various marketing channels, including email campaigns, social media promotions, SEO, and affiliate partnerships, to expand its reach and enhance brand awareness. With an increasing customer base worldwide, Elist aims to deliver cutting-edge products and ensure exceptional customer satisfaction. Despite having a substantial amount of customer and sales data, Elist has yet to fully utilize this data to drive business improvements. This project focuses on analyzing their data, identifying key trends, and providing actionable insights to optimize marketing strategies, enhance sales performance, and improve customer experience.
 
