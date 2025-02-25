@@ -1,14 +1,18 @@
-# Company Background:
+![Untitled100](https://github.com/user-attachments/assets/aed519b2-9251-4e23-b92f-53731cf761dd)
+
+
+
+# Company Background
 Elist is a rapidly growing consumer electronics company founded in 2018. The company sells popular electronics products through its website and mobile app while leveraging various marketing channels, including email campaigns, social media promotions, SEO, and affiliate partnerships, to expand its reach and enhance brand awareness. With an increasing customer base worldwide, Elist aims to deliver cutting-edge products and ensure exceptional customer satisfaction. Despite having a substantial amount of customer and sales data, Elist has yet to fully utilize this data to drive business improvements. This project focuses on analyzing their data, identifying key trends, and providing actionable insights to optimize marketing strategies, enhance sales performance, and improve customer experience.
 
-# Analysis Overview:
+# Analysis Overview
 Insights and recommendations are provided on following key areas:
 *	Sales Trends Analysis: Conducted an in-depth analysis of sales data over the past four years, focusing on total revenue, order volume, and average order value (AOV). Additionally, examined month-over-month (MoM) percentage changes in above key metrics to identify overall sales trends and seasonal variations.
 *	Product Performance Evaluation: Assessed product-level performance over time and across different regions to identify high-performing (star) products and underperforming items. This analysis provides insights into product demand, regional preferences, and potential areas for optimization in the product catalog.
 *	Loyalty Program Impact Analysis: Compared order volume between customers enrolled in the loyalty program and those who are not. This evaluation helps determine the program's effectiveness in driving repeat purchases and informs decisions regarding its continuation or potential improvements.
 
 
-## About Data:
+## About Data
 The dataset provides sales and order data for Elist’s product portfolio globally. The raw dataset consists of about 108,000 rows:
 *	Workbook for analysis and more detailed insights can be found here.
 *	For more details about the dataset and the data cleaning process check out the ERD and the Dataset Summary & Issue Log
@@ -58,12 +62,12 @@ Sales trends show **a peak in November (17%) and December (23%) each year**, ali
 
 # Recommendations
 
-## Sales Trend Analysis:
+## Sales Trend Analysis
 * Leverage Seasonal Sales Patterns: Implement aggressive promotional campaigns and early-bird holiday discounts in November and December to capitalize on the 17% and 23% sales spikes, while introducing pre-holiday deals in October to mitigate the consistent decline in sales during that month.
 * AOV Recovery Strategy: Focus on bundling high-ticket products such as 4K monitors and MacBooks with complementary accessories (e.g., cables, stands) to revive AOV levels, while targeting premium customer segments to restore the $322 peak AOV observed in October 2020.
-## Product Performance Evaluation:
+## Product Performance Evaluation
 * Product Lifecycle and Demand Stimulation: Introduce updated models or refreshed versions of top-performing products like Apple AirPods to address the 41% YOY decline in 2022 sales, while running retention campaigns to sustain long-term product demand.
 * Product Quality and Return Reduction: Investigate high return rates for ThinkPad Laptops (12%) and MacBook Air (11%), and collaborate with QA  and the sales team to check potential causes for returned items and enhance product descriptions and customer support to reduce return-driven revenue loss.
-## Loyalty Program Analysis:
+## Loyalty Program Analysis
 *	Customer Retention & Re-engagement: Introduce personalized rewards, exclusive product previews, and limited-time discounts to reignite member engagement following the 2022 decline, emphasizing the value of repeat purchases to maintain the 2021 peak order volume.
 *	Program Expansion & Segmentation: Expand the loyalty program by offering tiered benefits based on spending levels, with higher-value tiers targeting premium customers who drove AOV peaks in 2020, ensuring continued growth and sustained customer loyalty.
