@@ -1,9 +1,9 @@
-![Untitled100](https://github.com/user-attachments/assets/aed519b2-9251-4e23-b92f-53731cf761dd)
+![Untitled1](https://github.com/user-attachments/assets/d8ffde47-06c6-48ec-ae09-0c558b35f65e)
 
 
 
 # Company Background
-Elist is a rapidly growing consumer electronics company founded in 2018. The company sells popular electronics products through its website and mobile app while leveraging various marketing channels, including email campaigns, social media promotions, SEO, and affiliate partnerships, to expand its reach and enhance brand awareness. With an increasing customer base worldwide, Elist aims to deliver cutting-edge products and ensure exceptional customer satisfaction. Despite having a substantial amount of customer and sales data, Elist has yet to fully utilize this data to drive business improvements. This project focuses on analyzing their data, identifying key trends, and providing actionable insights to optimize marketing strategies, enhance sales performance, and improve customer experience.
+ZapNest is a rapidly growing consumer electronics company founded in 2018. The company sells popular electronics products through its website and mobile app while leveraging various marketing channels, including email campaigns, social media promotions, SEO, and affiliate partnerships, to expand its reach and enhance brand awareness. With an increasing customer base worldwide, ZapNest aims to deliver cutting-edge products and ensure exceptional customer satisfaction. Despite having a substantial amount of customer and sales data, ZapNest has yet to fully utilize this data to drive business improvements. This project focuses on analyzing their data, identifying key trends, and providing actionable insights to optimize marketing strategies, enhance sales performance, and improve customer experience.
 
 # Analysis Overview
 Insights and recommendations are provided on following key areas:
@@ -13,7 +13,7 @@ Insights and recommendations are provided on following key areas:
 
 
 ## About Data
-The dataset provides sales and order data for Elist’s product portfolio globally. The raw dataset consists of about 108,000 rows:
+The dataset provides sales and order data for ZapNest’s product portfolio globally. The raw dataset consists of about 108,000 rows:
 *	Workbook for analysis and more detailed insights can be found here.
 *	For more details about the dataset and the data cleaning process check out the ERD and the Dataset Summary & Issue Log
 *	See more of my exploration and analysis in SQL.
