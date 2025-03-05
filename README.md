@@ -35,7 +35,7 @@ Insights and recommendations are provided on following key areas:
 - **Excel:** Dataset can be found here.
 - **Tableau:** Dashboard can be found here.
 - **Dataset Summary & Issue Log:** Dataset and the data cleaning process can be found here.
-- <details> <summary>ERD can be found here </summary> ![Blank diagram](https://github.com/user-attachments/assets/032a88db-0eba-4ee0-90d7-f4f9310f18f4)
+- **ERD:** ERD can be found [here].
 
 
 
