@@ -1,31 +1,63 @@
-![Untitled1](https://github.com/user-attachments/assets/d8ffde47-06c6-48ec-ae09-0c558b35f65e)
 
+![Untitled1](https://github.com/user-attachments/assets/7f494ca0-cc9d-4717-afb4-9430e848425b)
 
+<h1 align="center"> PerformanceAnalysis</h1>
 
-# Company Background
-ZapNest is a rapidly growing consumer electronics company founded in 2018. The company sells popular electronics products through its website and mobile app while leveraging various marketing channels, including email campaigns, social media promotions, SEO, and affiliate partnerships, to expand its reach and enhance brand awareness. With an increasing customer base worldwide, ZapNest aims to deliver cutting-edge products and ensure exceptional customer satisfaction. Despite having a substantial amount of customer and sales data, ZapNest has yet to fully utilize this data to drive business improvements. This project focuses on analyzing their data, identifying key trends, and providing actionable insights to optimize marketing strategies, enhance sales performance, and improve customer experience.
+<table>
+<tr>
+<td width="33%">
+<h2 align="center"> Company Background </h2>
+ <div align="justify">
+   
+<a name="top"></a>   
+ZapNest is a rapidly growing consumer electronics company founded in 2018. The company sells popular electronics products through its website and mobile app while leveraging various marketing channels, including email campaigns, social media promotions, SEO, and affiliate partnerships, to expand its reach and enhance brand awareness. With an increasing customer base worldwide, ZapNest aims to deliver cutting-edge products and ensure exceptional customer satisfaction. 
 
-# Analysis Overview
+Despite having a substantial amount of customer and sales data, ZapNest has yet to fully utilize this data to drive business improvements. This project focuses on analyzing their data, identifying key trends, and providing actionable insights to optimize marketing strategies, enhance sales performance, and improve customer experience.
+
+</div>
+
+<h2 align="center"> Analysis Overview </h2>
+ <div align="justify">
+   
 Insights and recommendations are provided on following key areas:
+
+   
 *	Sales Trends Analysis: Conducted an in-depth analysis of sales data over the past four years, focusing on total revenue, order volume, and average order value (AOV). Additionally, examined month-over-month (MoM) percentage changes in above key metrics to identify overall sales trends and seasonal variations.
 *	Product Performance Evaluation: Assessed product-level performance over time and across different regions to identify high-performing (star) products and underperforming items. This analysis provides insights into product demand, regional preferences, and potential areas for optimization in the product catalog.
 *	Loyalty Program Impact Analysis: Compared order volume between customers enrolled in the loyalty program and those who are not. This evaluation helps determine the program's effectiveness in driving repeat purchases and informs decisions regarding its continuation or potential improvements.
+  
+</div>
+
+<h2 align="center"> About data</h2>
+
+**Tools Used**
+- **BigQuery:** Script can be found here.
+- **Excel:** Dataset can be found here.
+- **Tableau:** Dashboard can be found here.
+- **Dataset Summary & Issue Log:** Dataset and the data cleaning process can be found here.
+- **ERD:** ERD can be found here.
 
 
-## About Data
-The dataset provides sales and order data for ZapNest’s product portfolio globally. The raw dataset consists of about 108,000 rows:
-*	Workbook for analysis and more detailed insights can be found here.
-*	For more details about the dataset and the data cleaning process check out the ERD and the Dataset Summary & Issue Log
-*	See more of my exploration and analysis in SQL.
-### ERD: ![Blank diagram](https://github.com/user-attachments/assets/f4eae69e-4069-4b2c-bd71-e2825727e49f)
+</td>
+
+</tr>
+</table>
+
+
+
+
 
 # Executive Summary
+
+<div align="justify">
+
 In last 4 years company has **sold 62,431 products worth ~17M in revenue with Average Order Value of $263.**
 
 Sales trends show **a peak in November (17%) and December (23%) each year**, aligning with holiday shopping, while **October consistently declines by 25-30%**, indicating a pre-holiday spending slowdown. 
 **Apple AirPods remain the top-selling product** but faced a 41% YOY decline in 2022, while **Samsung Charging Cable Pack maintained steady demand** with sales peaking at $7,301 in 2021. **ThinkPad (12% refund rate) and MacBook Air (11%) had the highest returns**, suggesting potential quality or customer satisfaction issues.
 **The loyalty program grew 4x from 2019 to 2020**, with loyalty orders surpassing non-loyalty in 2021, but **dropped by 81% in December 2022**, highlighting engagement challenges. A data-driven strategy focusing on retention, incentives, and seasonal demand optimization is needed to drive long-term growth.
 
+</div>
 
 
 # Deep-Dive Insights
@@ -33,6 +65,9 @@ Sales trends show **a peak in November (17%) and December (23%) each year**, ali
 ![Sales Trend](https://github.com/user-attachments/assets/4ab11521-c8ee-409d-a27d-b7e0ea0f02e2)
 ![Mom Sales Growth](https://github.com/user-attachments/assets/c5cc6694-fb53-4011-a659-2a9550c9f9f5)
 
+
+<div align="justify">
+  
 * Sales trends clearly show that the company experiences a spike in sales each year in November (avg 21%) and December (avg 22%), aligning with the holiday season.
 * Over the past four years, October has consistently shown a sharp decline in sales, suggesting a seasonal dip likely (avg 31%) due to reduced consumer spending before major holidays.
 * An unusual spike occurred in March 2020, with a significant 50% increase, likely driven by the pandemic lockdown, which prompted consumers to purchase essential tech for remote work.
@@ -56,11 +91,23 @@ Sales trends show **a peak in November (17%) and December (23%) each year**, ali
 
 ![Loyalty Program](https://github.com/user-attachments/assets/77b80c80-93ff-430d-8cdb-a829232d632a)
 
+
+<div align="justify">
+
+  
 * Since the launch of loyalty program in 2019 it has shown consistant growth till 2021. In 2019, loyalty members contributed only a small portion of total orders. By 2020, loyalty orders surged significantly, growing over 4x in volume compared to 2019, reflecting a strong adoption rate.
 * In 2021, the program achieved a significant milestone—loyalty members surpassed non-loyalty members in total orders, marking a major success in driving customer retention and repeat purchases. However, this momentum did not sustain in 2022 as order volumes declined for both loyalty and non-loyalty customers.
 * While the program has clearly proven its value in boosting order volume, a targeted retention strategy is now crucial to revitalize customer interest and sustain long-term growth.
 
-# Recommendations
+<h1 align="center"> Recommendations </h1>
+
+<table>
+<tr>
+<td width="33%">
+
+ <div align="justify">
+
+
 
 ## Sales Trend Analysis
 * Leverage Seasonal Sales Patterns: Implement aggressive promotional campaigns and early-bird holiday discounts in November and December to capitalize on the 17% and 23% sales spikes, while introducing pre-holiday deals in October to mitigate the consistent decline in sales during that month.
@@ -71,3 +118,12 @@ Sales trends show **a peak in November (17%) and December (23%) each year**, ali
 ## Loyalty Program Analysis
 *	Customer Retention & Re-engagement: Introduce personalized rewards, exclusive product previews, and limited-time discounts to reignite member engagement following the 2022 decline, emphasizing the value of repeat purchases to maintain the 2021 peak order volume.
 *	Program Expansion & Segmentation: Expand the loyalty program by offering tiered benefits based on spending levels, with higher-value tiers targeting premium customers who drove AOV peaks in 2020, ensuring continued growth and sustained customer loyalty.
+
+</div>
+</table>
+
+### ERD: ![Blank diagram](https://github.com/user-attachments/assets/f4eae69e-4069-4b2c-bd71-e2825727e49f)
+
+<br><hr>
+
+[🔼 Back to top](PerformanceAnalysis)
