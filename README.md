@@ -1,7 +1,7 @@
 
 ![Untitled1](https://github.com/user-attachments/assets/7f494ca0-cc9d-4717-afb4-9430e848425b)
 
-<h1 align="center"> PerformanceAnalysis</h1>
+<h1 align="center"> Performance Analysis</h1>
 
 <table>
 <tr>
@@ -124,6 +124,4 @@ Sales trends show **a peak in November (17%) and December (23%) each year**, ali
 
 ### ERD: ![Blank diagram](https://github.com/user-attachments/assets/f4eae69e-4069-4b2c-bd71-e2825727e49f)
 
-<br><hr>
-
-[🔼 Back to top](PerformanceAnalysis)
+[🔼 Back to top]()
