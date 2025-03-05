@@ -35,8 +35,12 @@ Insights and recommendations are provided on following key areas:
 - **Excel:** Dataset can be found here.
 - **Tableau:** Dashboard can be found here.
 - **Dataset Summary & Issue Log:** Dataset and the data cleaning process can be found here.
-- **ERD:** ERD can be found here.
+- <details> <summary>ERD can be found here </summary> ![Blank diagram](https://github.com/user-attachments/assets/032a88db-0eba-4ee0-90d7-f4f9310f18f4)
 
+
+
+
+  </details>
 
 </td>
 
@@ -122,6 +126,5 @@ Sales trends show **a peak in November (17%) and December (23%) each year**, ali
 </div>
 </table>
 
-### ERD: ![Blank diagram](https://github.com/user-attachments/assets/f4eae69e-4069-4b2c-bd71-e2825727e49f)
 
 [🔼 Back to top]()
