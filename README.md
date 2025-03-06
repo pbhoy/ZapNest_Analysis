@@ -10,48 +10,12 @@
  <div align="justify">
    
 <a name="top"></a>   
-ZapNest is a rapidly growing consumer electronics company founded in 2018. The company sells popular electronics products through its website and mobile app while leveraging various marketing channels, including email campaigns, social media promotions, SEO, and affiliate partnerships, to expand its reach and enhance brand awareness. With an increasing customer base worldwide, ZapNest aims to deliver cutting-edge products and ensure exceptional customer satisfaction. 
+**ZapNest** is a rapidly growing consumer electronics company founded in 2018. The company sells popular electronics products through its website and mobile app while leveraging various marketing channels, including email campaigns, social media promotions, SEO, and affiliate partnerships, to expand its reach and enhance brand awareness. With an increasing customer base worldwide, ZapNest aims to deliver cutting-edge products and ensure exceptional customer satisfaction. 
 
-Despite having a substantial amount of customer and sales data, ZapNest has yet to fully utilize this data to drive business improvements. This project focuses on analyzing their data, identifying key trends, and providing actionable insights to optimize marketing strategies, enhance sales performance, and improve customer experience.
+Despite having a substantial amount of customer and sales data, **ZapNest** has yet to fully utilize this data to drive business improvements. **ZapNest's** book of business is approaching **88,000** customers and possesses over **108,000** transactions, generating sales revenue exceeding $28 million. This project focuses on analyzing their data, identifying key trends, and providing actionable insights to optimize marketing strategies, enhance sales performance, and improve customer experience.
 
 </div>
-
-<h2 align="center"> Analysis Overview </h2>
- <div align="justify">
-   
-Insights and recommendations are provided on following key areas:
-
-   
-*	Sales Trends Analysis: Conducted an in-depth analysis of sales data over the past four years, focusing on total revenue, order volume, and average order value (AOV). Additionally, examined month-over-month (MoM) percentage changes in above key metrics to identify overall sales trends and seasonal variations.
-*	Product Performance Evaluation: Assessed product-level performance over time and across different regions to identify high-performing (star) products and underperforming items. This analysis provides insights into product demand, regional preferences, and potential areas for optimization in the product catalog.
-*	Loyalty Program Impact Analysis: Compared order volume between customers enrolled in the loyalty program and those who are not. This evaluation helps determine the program's effectiveness in driving repeat purchases and informs decisions regarding its continuation or potential improvements.
-  
-</div>
-
-<h2 align="center"> About data</h2>
-
-**Tools Used**
-- **BigQuery:** Script can be found [here](https://github.com/pbhoy/ZapNest_Analysis/tree/main/SQL).
-- **Excel:** Dataset can be found [here](https://github.com/pbhoy/ZapNest_Analysis/tree/main/Excel).
-- **Tableau:** Dashboard can be found here.
-- **Dataset Summary & Issue Log:** Dataset and the data cleaning process can be found here.
-- **ERD:** ERD can be found [here].
-
-
-
-
-  </details>
-
-</td>
-
-</tr>
-</table>
-
-
-
-
-
-# Executive Summary
+<h2 align="center"> Executive Summary </h2>
 
 <div align="justify">
 
@@ -64,7 +28,47 @@ Sales trends show **a peak in November (17%) and December (23%) each year**, ali
 </div>
 
 
-# Deep-Dive Insights
+
+</td>
+
+</tr>
+</table>
+<table>
+<tr>
+<td width="33%">
+
+<h2 align="center"> Analysis Overview </h2>
+ <div align="justify">
+   
+Insights and recommendations are provided on following key areas:
+
+   
+- **Sales Trends Analysis:** Analyzed four years of sales data on revenue, order volume, and AOV, identifying seasonal patterns and MoM changes.  
+- **Product Performance Evaluation:** Assessed product demand across regions, highlighting top-performing products and areas for catalog optimization.  
+- **Loyalty Program Impact Analysis:** Measured loyalty program effectiveness by comparing order volume of enrolled vs. non-enrolled customers to guide program improvements.
+  
+</div>
+
+<h2 align="center"> About data</h2>
+
+**Tools Used**
+- **BigQuery:** Script can be found [here](https://github.com/pbhoy/ZapNest_Analysis/tree/main/SQL).
+- **Excel:** Dataset can be found [here](https://github.com/pbhoy/ZapNest_Analysis/tree/main/Excel).
+- **Tableau:** Dashboard can be found here.
+- **Dataset Summary & Issue Log:** Dataset and the data cleaning process can be found here.
+- **ERD:** ERD can be found [here].
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+<td >
+
+<h2 align="center"> Deep-Dive Insights </h2>
+ <div align="justify">
+
 ## Sales Trends
 ![Sales Trend](https://github.com/user-attachments/assets/4ab11521-c8ee-409d-a27d-b7e0ea0f02e2)
 ![Mom Sales Growth](https://github.com/user-attachments/assets/c5cc6694-fb53-4011-a659-2a9550c9f9f5)
@@ -92,7 +96,6 @@ Sales trends show **a peak in November (17%) and December (23%) each year**, ali
 
 
 ## Loyalty Program
-
 ![Loyalty Program](https://github.com/user-attachments/assets/77b80c80-93ff-430d-8cdb-a829232d632a)
 
 
@@ -102,7 +105,8 @@ Sales trends show **a peak in November (17%) and December (23%) each year**, ali
 * Since the launch of loyalty program in 2019 it has shown consistant growth till 2021. In 2019, loyalty members contributed only a small portion of total orders. By 2020, loyalty orders surged significantly, growing over 4x in volume compared to 2019, reflecting a strong adoption rate.
 * In 2021, the program achieved a significant milestone—loyalty members surpassed non-loyalty members in total orders, marking a major success in driving customer retention and repeat purchases. However, this momentum did not sustain in 2022 as order volumes declined for both loyalty and non-loyalty customers.
 * While the program has clearly proven its value in boosting order volume, a targeted retention strategy is now crucial to revitalize customer interest and sustain long-term growth.
-
+</div>
+</table>
 <h1 align="center"> Recommendations </h1>
 
 <table>
