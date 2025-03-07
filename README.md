@@ -17,13 +17,19 @@ Despite having a substantial amount of customer and sales data, **ZapNest** has 
 </div>
 <h2 align="center"> Executive Summary </h2>
 
+
+
+ <img width="1000" alt="Summary" src="https://github.com/user-attachments/assets/50c588e6-54ee-46af-b424-9c9434bf54d4" />
+
+
 <div align="justify">
 
-In last 4 years company has **sold 62,431 products worth ~17M in revenue with Average Order Value of $263.**
-
-Sales trends show **a peak in November (17%) and December (23%) each year**, aligning with holiday shopping, while **October consistently declines by 25-30%**, indicating a pre-holiday spending slowdown. 
-**Apple AirPods remain the top-selling product** but faced a 41% YOY decline in 2022, while **Samsung Charging Cable Pack maintained steady demand** with sales peaking at $7,301 in 2021. **ThinkPad (12% refund rate) and MacBook Air (11%) had the highest returns**, suggesting potential quality or customer satisfaction issues.
-**The loyalty program grew 4x from 2019 to 2020**, with loyalty orders surpassing non-loyalty in 2021, but **dropped by 81% in December 2022**, highlighting engagement challenges. A data-driven strategy focusing on retention, incentives, and seasonal demand optimization is needed to drive long-term growth.
+ In last 4 years company has **sold 62,431 products worth ~17M in revenue with Average Order Value of $263.**
+- Sales trends show **a peak in November (17%) and December (23%) each year**, aligning with holiday shopping, while **October consistently declines by 25-30%**, indicating a pre-holiday spending slowdown.
+- **Apple AirPods remain the top-selling product** but faced a 41% YOY decline in 2022, while **Samsung Charging Cable Pack maintained steady demand** with sales peaking at $7,301 in 2021.
+- **ThinkPad (12% refund rate) and MacBook Air (11%) had the highest returns**, suggesting potential quality or customer satisfaction issues.
+- **The loyalty program grew 4x from 2019 to 2020**, with loyalty orders surpassing non-loyalty in 2021, but **dropped by 81% in December 2022**, highlighting engagement challenges.
+- A data-driven strategy focusing on retention, incentives, and seasonal demand optimization is needed to drive long-term growth.
 
 </div>
 
