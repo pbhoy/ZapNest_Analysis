@@ -3,9 +3,7 @@
 
 <h1 align="center"> Performance Analysis</h1>
 
-<table>
-<tr>
-<td width="33%">
+
 <h2 align="center"> Company Background </h2>
  <div align="justify">
    
@@ -35,15 +33,6 @@ Despite having a substantial amount of customer and sales data, **ZapNest** has 
 </div>
 
 
-
-</td>
-
-</tr>
-</table>
-<table>
-<tr>
-<td width="33%">
-
 <h2 align="center"> Analysis Overview </h2>
  <div align="justify">
    
@@ -64,14 +53,7 @@ Insights and recommendations are provided on following key areas:
 - **Tableau:** Dashboard can be found here.
 - **Dataset Summary & Issue Log:** Dataset and the data cleaning process can be found here.
 - **ERD:** ERD can be found [here].
-</td>
 
-</tr>
-</table>
-
-<table>
-<tr>
-<td >
 
 <h2 align="center"> Deep-Dive Insights </h2>
  <div align="justify">
@@ -116,9 +98,6 @@ Insights and recommendations are provided on following key areas:
 </table>
 <h1 align="center"> Recommendations </h1>
 
-<table>
-<tr>
-<td width="33%">
 
  <div align="justify">
 
@@ -135,7 +114,7 @@ Insights and recommendations are provided on following key areas:
 *	Program Expansion & Segmentation: Expand the loyalty program by offering tiered benefits based on spending levels, with higher-value tiers targeting premium customers who drove AOV peaks in 2020, ensuring continued growth and sustained customer loyalty.
 
 </div>
-</table>
+
 
 
 [🔼 Back to top]()
