@@ -17,7 +17,7 @@ Despite having a substantial amount of customer and sales data, **ZapNest** has 
 
 
 
- <img width="1000" alt="Summary" src="https://github.com/user-attachments/assets/0373890f-43e1-4676-a2ec-4cc64f34a759" />
+ <img width="1000" alt="Summary" src="https://github.com/user-attachments/assets/9abcb7b3-25db-4e6b-9eae-a7e91e18aa3b" />
 
 
 
