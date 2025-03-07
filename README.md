@@ -12,19 +12,20 @@
 <a name="top"></a>   
 **ZapNest** is a rapidly growing consumer electronics company founded in 2018. The company sells popular electronics products through its website and mobile app while leveraging various marketing channels, including email campaigns, social media promotions, SEO, and affiliate partnerships, to expand its reach and enhance brand awareness. With an increasing customer base worldwide, ZapNest aims to deliver cutting-edge products and ensure exceptional customer satisfaction. 
 
-Despite having a substantial amount of customer and sales data, **ZapNest** has yet to fully utilize this data to drive business improvements. **ZapNest's** book of business is approaching **88,000** customers and possesses over **108,000** transactions, generating sales revenue exceeding $28 million. This project focuses on analyzing their data, identifying key trends, and providing actionable insights to optimize marketing strategies, enhance sales performance, and improve customer experience.
+Despite having a substantial amount of customer and sales data, **ZapNest** has yet to fully utilize this data to drive business improvements. **ZapNest's** book of business is approaching **88,000** customers and possesses over **108,127** transactions, generating sales revenue exceeding **$28** million. This project focuses on analyzing their data, identifying key trends, and providing actionable insights to optimize marketing strategies, enhance sales performance, and improve customer experience.
 
 </div>
 <h2 align="center"> Executive Summary </h2>
 
 
 
- <img width="1000" alt="Summary" src="https://github.com/user-attachments/assets/50c588e6-54ee-46af-b424-9c9434bf54d4" />
+ <img width="1000" alt="Summary" src="https://github.com/user-attachments/assets/0373890f-43e1-4676-a2ec-4cc64f34a759" />
+
 
 
 <div align="justify">
 
- In last 4 years company has **sold 62,431 products worth ~17M in revenue with Average Order Value of $263.**
+ In last 4 years company has **sold 108,127 products worth ~28M in revenue with Average Order Value of $250.**
 - Sales trends show **a peak in November (17%) and December (23%) each year**, aligning with holiday shopping, while **October consistently declines by 25-30%**, indicating a pre-holiday spending slowdown.
 - **Apple AirPods remain the top-selling product** but faced a 41% YOY decline in 2022, while **Samsung Charging Cable Pack maintained steady demand** with sales peaking at $7,301 in 2021.
 - **ThinkPad (12% refund rate) and MacBook Air (11%) had the highest returns**, suggesting potential quality or customer satisfaction issues.
