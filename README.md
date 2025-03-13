@@ -50,7 +50,7 @@ Insights and recommendations are provided on following key areas:
 **Tools Used**
 - **BigQuery:** Script can be found [here](https://github.com/pbhoy/ZapNest_Analysis/tree/main/SQL).
 - **Excel:** Dataset can be found [here](https://github.com/pbhoy/ZapNest_Analysis/tree/main/Excel).
-- **Dataset Summary & Issue Log:** Issue log can be [here](.
+- **Dataset Summary & Issue Log:** Issue log can be [here](https://github.com/pbhoy/ZapNest_Analysis/blob/main/Issue%20Log_ZapNest.xlsx).
 - **ERD:** ERD can be found [here](https://github.com/pbhoy/ZapNest_Analysis/blob/main/Blank%20diagram.png).
 
 
