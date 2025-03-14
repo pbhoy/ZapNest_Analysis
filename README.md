@@ -50,7 +50,7 @@ Insights and recommendations are provided on following key areas:
 **Tools Used**
 - **BigQuery:** Script can be found [here](https://github.com/pbhoy/ZapNest_Analysis/tree/main/SQL).
 - **Excel:** Dataset can be found [here](https://github.com/pbhoy/ZapNest_Analysis/tree/main/Excel).
-- **Dataset Summary & Issue Log:** Issue log can be [here](https://github.com/pbhoy/ZapNest_Analysis/blob/main/Issue%20Log_ZapNest.xlsx).
+- **Dataset Summary & Issue Log:** Issue log can be found [here](https://github.com/pbhoy/ZapNest_Analysis/blob/main/Issue%20Log_ZapNest.xlsx).
 - **ERD:** ERD can be found [here](https://github.com/pbhoy/ZapNest_Analysis/blob/main/Blank%20diagram.png).
 
 
@@ -59,7 +59,7 @@ Insights and recommendations are provided on following key areas:
 
 ## Sales Trends
 ![Sales Trend](https://github.com/user-attachments/assets/4ab11521-c8ee-409d-a27d-b7e0ea0f02e2)
-![Mom Sales Growth](https://github.com/user-attachments/assets/c5cc6694-fb53-4011-a659-2a9550c9f9f5)
+<p align="center"> <img src=https://github.com/user-attachments/assets/c5cc6694-fb53-4011-a659-2a9550c9f9f5> </p>
 
 
 <div align="justify">
@@ -72,7 +72,7 @@ Insights and recommendations are provided on following key areas:
   
 ## Product Performance Evaluation
 ![Product Performance](https://github.com/user-attachments/assets/10055a8b-2a56-43b5-a3ac-bf27ad1b4143)
-![Return Rate](https://github.com/user-attachments/assets/112fbfec-23e9-425f-a957-d646c680dc27)
+<p align="center"> <img src=https://github.com/user-attachments/assets/112fbfec-23e9-425f-a957-d646c680dc27> </p>
 
 * **Apple AirPods Headphones have consistently been the top-performing product** over the past four years. However, **YOY sales declined by 41% in 2022**, indicating a slowdown in demand despite high sales volume. This trend suggests a need for strategic intervention to sustain long-term growth.
 
